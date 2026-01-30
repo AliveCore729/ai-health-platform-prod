@@ -14,9 +14,9 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 uvicorn==0.40.0
 python-dotenv
-tensorflow==2.15.0
-torch==2.2.2
-torchvision==0.17.2
+tensorflow
+torch
+torchvision
 opencv-python-headless
 numpy
 pillow
